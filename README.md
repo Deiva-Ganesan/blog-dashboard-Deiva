@@ -2,6 +2,8 @@ Blog Dashboard
 
 Repository: GitHub - https://github.com/Deiva-Ganesan/blog-dashboard-Deiva
 
+Live Demo: Vercel - https://blog-dashboard-deiva-urbio-jwf7kidzo-deiva-ganesans-projects.vercel.app/
+
 Blog Dashboard
 
 A simple blog dashboard built with Next.js, Material-UI, TypeScript, and RTK Query, using MockAPI.io as a backend. Users can:
